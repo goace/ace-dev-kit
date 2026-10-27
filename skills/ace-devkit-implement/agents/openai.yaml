@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ace DevKit Implement"
+  short_description: "承接已确认的需求与设计，完成开发、自测、双轴审查及问题修复"
+policy:
+  allow_implicit_invocation: false

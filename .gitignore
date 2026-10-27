@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local runtime
+.ace-devkit/.venv/
+*.tmp
+.lock
+
+# Private source-review notes
+docs/research/

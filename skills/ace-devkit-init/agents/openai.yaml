@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ace DevKit Init"
+  short_description: "初始化项目级的开发规范"
+  default_prompt: "使用 $ace-devkit-init 初始化当前项目的 Ace DevKit 约定。"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ace DevKit New Issue"
+  short_description: "开始一个新issue的开发流程"
+policy:
+  allow_implicit_invocation: false
